@@ -11,19 +11,13 @@ Todo-list is a tool that organizes your task or things you want to do and allows
 - Frameworks: React
 - Technologies used: 
 
-[Live Demo Here]()
+
 
 ## Getting started
 - To get a local copy up and running follow these simple example steps.
 
-# Prerequisites
-- Vscode
-
 # Setup
-- git clone https://github.com/ekenecf/React-ToDo-APP.git
-
-# Usage
--  Usage: cd <https://github.com/ekenecf/React-ToDo-APP.git>, npm install, npm start
+- git clone https://github.com/ekenecf/React-ToDo-APP.git, npm install, npm start
 
 ## Authors
 
@@ -31,4 +25,4 @@ Todo-list is a tool that organizes your task or things you want to do and allows
 
 - GitHub: [Ekene Nwachukwu](https://github.com/ekenecf)
 - LinkedIn: [Ekene Nwachukwu](https://www.linkedin.com/in/ekene-nwachukwu-1b9024153/)
-- Twitter [Ekene Nwachukwu](http
+- Twitter [Ekene Nwachukwu](https://www.twitter.com/ekene070)
